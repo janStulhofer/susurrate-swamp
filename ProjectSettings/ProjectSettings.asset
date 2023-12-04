@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: ec0166c98a482f6b89203f8eb9255139
+  productGUID: 8866e9c76a7a7fb7499050deea68aa25
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Susurrate_Swamp_Game
+  productName: susurrate-swamp-ng
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -673,14 +673,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Susurrate_Swamp_Game
+  metroPackageName: susurrate-swamp-ng
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Susurrate_Swamp_Game
+  metroApplicationDescription: susurrate-swamp-ng
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -749,10 +749,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7f35a2b0-f37e-44c2-a82f-cf90ae749a91
+  cloudProjectId: 59563091-167e-43ed-9166-2b052992a463
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Susurrate_Swamp_Game
+  projectName: susurrate-swamp-ng
   organizationId: jstul
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
