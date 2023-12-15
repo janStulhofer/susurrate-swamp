@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 1242725c72e302046b85fadfa7a8294e
+  - enabled: 1
+    path: Assets/Scenes/Hra.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/nastaveni.unity
+    guid: 149877db1947bdc40a26b8ebfb398e11
   m_configObjects: {}

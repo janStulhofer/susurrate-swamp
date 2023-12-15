@@ -15,6 +15,10 @@ public class PlayerMovement : MonoBehaviour
     public float defaultHeight = 2f;
     public float crouchHeight = 1f;
     public float crouchSpeed = 2f;
+   
+
+
+
 
     private Vector3 moveDirection = Vector3.zero;
     private float rotationX = 0;
@@ -25,8 +29,8 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         characterController = GetComponent<CharacterController>();
-        Cursor.lockState = CursorLockMode.Locked;
-        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked; //Locked
+        Cursor.visible = false; //false
     }
 
     void Update()
@@ -78,5 +82,7 @@ public class PlayerMovement : MonoBehaviour
             transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
         }
     }
+
+
 }
 
