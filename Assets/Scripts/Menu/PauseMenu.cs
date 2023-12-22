@@ -37,6 +37,7 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
         FindObjectOfType<PlayerMovement>().lookSpeed = 2f;
+        FindObjectOfType<flashlightTurn>().enabled = true;
         GameIsPaused = false;
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
@@ -47,6 +48,7 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         FindObjectOfType<PlayerMovement>().lookSpeed = 0f;
+        FindObjectOfType<flashlightTurn>().enabled = false;
         GameIsPaused = true;
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
