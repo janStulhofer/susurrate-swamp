@@ -1,1 +1,14 @@
+Použité materiály:
 Kurzor: http://www.rw-designer.com/cursor-set/hello-kitty
+Shadery: Göktuğ Kayacan (https://github.com/Math-Man)
+Model klíč: Laurie Annis (https://sketchfab.com/laurieannis)
+Model kočky: Evil_Katz (https://sketchfab.com/Evil_Katz)
+Model stromy: SomeKevin (https://sketchfab.com/SomeKevin) 
+Model stromy: Elegant Crow (https://elegantcrow.itch.io/psx-retro-style-tree-pack)
+Model stromy: Stark Crafts (https://starkcrafts.itch.io/psx-forest-asset-collection-by-starkcrafts)
+Model kamen: Drops (https://sketchfab.com/3d-models/rocks-psx-low-poly-4a9020e1803444c7aa79a6272a7d09b9)
+Model baterka: liltoba (https://sketchfab.com/3d-models/flash-light-psx-low-poly-1a7235fad65646a9bafb21bc7c40467a)
+Stůl: Pixel Life (https://sketchfab.com/pixellife)
+
+Použité nástroje:
+Dialogové rozhraní: Grasshop Dev (https://assetstore.unity.com/packages/tools/utilities/dialogue-editor-168329)
