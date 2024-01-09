@@ -17,6 +17,7 @@ public class conversationStarter : MonoBehaviour
                 Debug.Log("Conversation started");
                 ConversationManager.Instance.StartConversation(conversation);
                 questKeyScript.showKey();
+
             }
         }
     }

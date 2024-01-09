@@ -9,6 +9,7 @@ Model stromy: Stark Crafts (https://starkcrafts.itch.io/psx-forest-asset-collect
 Model kamen: Drops (https://sketchfab.com/3d-models/rocks-psx-low-poly-4a9020e1803444c7aa79a6272a7d09b9)
 Model baterka: liltoba (https://sketchfab.com/3d-models/flash-light-psx-low-poly-1a7235fad65646a9bafb21bc7c40467a)
 Stůl: Pixel Life (https://sketchfab.com/pixellife)
+Svíčka: shuvalov.di (https://sketchfab.com/shuvalov.di)
 
 Použité nástroje:
 Dialogové rozhraní: Grasshop Dev (https://assetstore.unity.com/packages/tools/utilities/dialogue-editor-168329)
