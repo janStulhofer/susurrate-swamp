@@ -8,7 +8,7 @@ public class questKey : MonoBehaviour
     public GameObject txt;
 
     public bool inRange = false;
-
+    public bool questDone = false;
     void Start()
     {
     key.SetActive(false);    
@@ -22,7 +22,7 @@ public class questKey : MonoBehaviour
             key.SetActive(false);
             txt.SetActive(false);
             Debug.Log("Key picked up");
-            
+            questDone = true;
         }
     }
 
