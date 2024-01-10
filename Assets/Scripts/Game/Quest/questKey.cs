@@ -51,6 +51,3 @@ private void OnTriggerExit(Collider other)
         }
     }
 }
-
-
-
