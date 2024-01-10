@@ -2534,7 +2534,7 @@ MonoBehaviour:
   key: {fileID: 1822464522}
   txt: {fileID: 983750036}
   inRange: 0
-  questDone: 1
+  questDone: 0
 --- !u!4 &541832086
 Transform:
   m_ObjectHideFlags: 0
